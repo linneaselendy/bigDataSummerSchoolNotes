@@ -1,1 +1,5 @@
 t is amaxing for version control.
+So we first created a git directory called bigdata notes
+then, I created this file called gitNotes
+after I finished that. I used git add and git commit to save them in my repository.
+Am I a coding queen yet? Yes or Yes?
